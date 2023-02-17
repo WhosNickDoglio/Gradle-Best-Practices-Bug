@@ -1,0 +1,1 @@
+# [Gradle Best Practices Plugin](https://github.com/autonomousapps/gradle-best-practices-plugin) Bug Reproducer
